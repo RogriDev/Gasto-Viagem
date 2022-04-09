@@ -46,6 +46,5 @@ class MainActivity : AppCompatActivity() {
                 && binding.editPrice.text.toString() != "0"
                 && binding.editAutonomy.text.toString() != "0"
     }
-
 }
 
